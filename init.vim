@@ -1,0 +1,1 @@
+/home/valkrith/.config/nvim/init.vim
